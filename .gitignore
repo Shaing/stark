@@ -1,0 +1,4 @@
+build/*
+dist
+__pycache__/main.cpython-36.pyc
+stark.exe.spec
